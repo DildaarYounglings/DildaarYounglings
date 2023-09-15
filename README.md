@@ -1,3 +1,3 @@
 - 👋 Hi, I’m DildaarYounglings
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C# for Web API, full time React js junior Developer currently 
+- 🌱 I’m currently learning C#, full time React js junior frontend Developer currently on the market 
