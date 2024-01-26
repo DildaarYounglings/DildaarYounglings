@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Dildaar Abrahams
 - 👀 I’m interested in web developement and software developement
-- 🌱 I’m currently learning C#, full time React js junior frontend Developer currently on the market 
+- 🌱 I’m currently learning C# and Java, full time React js junior frontend Developer currently on the market;
