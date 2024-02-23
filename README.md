@@ -4,7 +4,7 @@
 - 🌱 I have been at Younglings Africa on a probation period and got nominated as a developer due to my skills. Which is a NPO initiative that helps teach people in poor communities IT and coding;
 -  import React from "react";
 -   function HomePage(){
-     const handleText = () => {
+-    const handleText = () => {
        if(!try === "success"){
          try{
            const success = "win";
