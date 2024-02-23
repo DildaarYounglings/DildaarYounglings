@@ -5,7 +5,7 @@
 -  import React from "react";
 -   function HomePage(){
 -    const handleText = () => {
-       if(!try === "success"){
+-      if(!try === "success"){
          try{
            const success = "win";
          }catch(err){
